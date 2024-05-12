@@ -1,5 +1,5 @@
-<H3>Name : Swathika G</H3>
-<H3>Register number : 212221230113</H3>
+<H3>Name : SOUVIK KUNDU</H3>
+<H3>Register number : 212221230105</H3>
 <H3>EX. NO.4</H3>
 <H1 ALIGN =CENTER> Implementation of Hidden Markov Model</H1>
 

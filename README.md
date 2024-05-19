@@ -1,5 +1,5 @@
-<H3>Name : RAGUL VK</H3>
-<H3>Reg No. : 212221240043 </H3>
+<H3>Name : SOUVIK KUNDU</H3>
+<H3>Reg No. : 212221230105 </H3>
 <H3>EX. NO.4</H3>
 <H3>DATE:16.03.2024</H3>
 <H1 ALIGN =CENTER> Implementation of Hidden Markov Model</H1>
